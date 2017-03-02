@@ -1,2 +1,2 @@
 # stone-wxpay
-a wechat pay library by stone
+a wechat pay library by php
